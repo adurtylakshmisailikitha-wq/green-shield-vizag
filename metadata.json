@@ -1,0 +1,11 @@
+{
+  "name": "Remix Green Shield Vizag",
+  "description": "Turn one-off tree drives into photo-verified sapling survival logs across Visakhapatnam.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
